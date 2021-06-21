@@ -19,7 +19,6 @@ function HomePage() {
     <div>
       <h1>Good Afternoon</h1>
       <h2>Selvakumar Jeremiah</h2>
-      <h3>IBM/BPI</h3>
     </div>
     
   )
