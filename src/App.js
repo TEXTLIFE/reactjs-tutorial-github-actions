@@ -17,7 +17,8 @@ function App() {
 function HomePage() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <h1>Good Afternoon</h1>
+      <h2>Selvakumar Jeremiah</h2>
     </div>
     
   )
