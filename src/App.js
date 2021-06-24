@@ -18,6 +18,7 @@ function HomePage() {
   return (
     <div>
       <h1>Good Afternoon</h1>
+      <h2>Maliksi.io</h2>
     </div>
     
   )
